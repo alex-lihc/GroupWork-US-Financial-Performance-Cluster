@@ -1,0 +1,12 @@
+Name of Quantlet: 'US Financial Performance during Pandemic  Using Clustering'
+
+Description: 'Cluster S&P 500 stocks performance'
+
+Output: 'Cluster plots from yahoo finance dataset'
+
+Keywords:
+- Hierarchical Clustering
+- Yahoo finance
+- Webscraping
+
+Author: Haochen Li, Chung Shun Man
